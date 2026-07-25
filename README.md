@@ -12,6 +12,9 @@ https://zingy-biscotti-6037b6.netlify.app/
 
 https://github.com/gouri-biswas23/northpeak-digital
 
+## Loom Walkthrough
+https://www.loom.com/share/2cffdcbf6fdf4a88b5d4fc24beb0a2e7
+
 ---
 
 ## ✨ Features
