@@ -6,7 +6,7 @@ The project focuses on modern UI/UX, responsive design, accessibility, performan
 
 ## 🌐 Live Demo
 
-https://6a63d8b61958583dbc312bdd--zingy-biscotti-6037b6.netlify.app/
+https://zingy-biscotti-6037b6.netlify.app/
 
 ## 📂 GitHub Repository
 
